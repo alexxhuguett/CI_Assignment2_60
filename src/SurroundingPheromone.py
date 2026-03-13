@@ -19,7 +19,7 @@ class SurroundingPheromone:
         self.total_surrounding_pheromone = east + north + south + west
 
     """
-    Get the total amount of surrouning pheromone
+    Get the total amount of surrounding pheromone
     @return total amount of pheromone in a location
     """
     def get_total_surrounding_pheromone(self):
